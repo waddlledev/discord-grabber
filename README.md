@@ -11,8 +11,7 @@ Creates a link that appears broken in Discord but captures visitor IP informatio
 
 ## Files
 
-- `index.html` - Main page that captures IPs
-- `404.html` - Fallback page for broken appearance
+- `index.html` - Main page that captures IPs and fake breaks
 
 ## Usage
 
